@@ -17,13 +17,14 @@ drone.set_roll(50)
 drone.move(1)
 drone.land()
 ```
-The code above is intended to move the drone forward and then right. But if you test the code over multiple runs, you would realize that the drone ends up at a different location despite having the same code, starting location, and environment. This is due to several known and unknown factors, but you just need to understand that the drone behaves weirdly. We must rely on sensors, which we will address in this documentation.
+The code above is intended to move the drone forward and then right. But if you test the code over multiple runs, you would realize that the drone ends up at a different location despite having the same code, starting location, and environment. This is due to several known and unknown factors, but you just need to understand that the drone behaves weirdly. We must rely on sensors, which we will address in this documentation. 
 
-# Python Installation
-You may skip any step below if you have done it already.
-
-## Install Python 3.11.6
+## Python Installation
+### Install Python 3.11.6
 Visit [https://www.python.org/downloads/release/python-3116](https://www.python.org/downloads/release/python-3116)
 
-## Install PyCharm
+### Install PyCharm
 Visit [https://www.jetbrains.com/pycharm/download/](https://www.jetbrains.com/pycharm/download/)
+
+Sorry about my fan:
+![type:video](https://www.youtube.com/embed/yoxNW6Q9aQY)
